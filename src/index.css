@@ -44,7 +44,7 @@ h1 {
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
-    background-color: #f3f3f3;
+    background-color: blue;
   }
   a:hover {
     color: #747bff;
